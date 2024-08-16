@@ -1,0 +1,15 @@
+.markets {
+	height: 50px;
+	gap: 40px;
+	padding: 0 20px;
+
+	font-size: 16px;
+	color: var(--black);
+	background-color: var(--white);
+	
+	overflow: auto;
+}
+
+.selected {
+	color: var(--red);
+}

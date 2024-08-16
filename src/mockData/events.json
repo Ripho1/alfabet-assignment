@@ -1,0 +1,133 @@
+[
+	{
+		"gameID": "1",
+		"marketID": "1",
+		"id": "1",
+
+		"title": "MONEYLINE",
+		"options": [
+			{
+				"title": "Home",
+				"odds": 150,
+				"id": "1"
+			},
+			{
+				"title": "X",
+				"odds": 200,
+				"id": "2"
+			},
+			{
+				"title": "Guest",
+				"odds": 235,
+				"id": "3"
+			}
+		]
+	},
+	{
+		"gameID": "1",
+		"marketID": "1",
+		"id": "2",
+
+		"title": "BOTH TEAMS TO SCORE",
+		"options": [
+			{
+				"title": "Yes",
+				"odds": -110,
+				"id": "1"
+			},
+			{
+				"title": "No",
+				"odds": -120,
+				"id": "2"
+			}
+		]
+	},
+	{
+		"gameID": "1",
+		"marketID": "1",
+		"id": "3",
+
+		"cannotBeCombined": true,
+		"title": "ANY TIME GOALSCORER",
+		"options": [
+			{
+				"title": "Name 1",
+				"odds": 115,
+				"id": "1"
+			},
+			{
+				"title": "Name 2",
+				"odds": 165,
+				"id": "2"
+			},
+			{
+				"title": "Name 3",
+				"odds": 250,
+				"id": "3"
+			},
+			{
+				"title": "Name 4",
+				"odds": 35,
+				"id": "4"
+			},
+			{
+				"title": "Name 5",
+				"odds": 5,
+				"id": "5"
+			},
+			{
+				"title": "Name 6",
+				"odds": 2,
+				"id": "6"
+			}
+		]
+	},
+	{
+		"gameID": "1",
+		"marketID": "2",
+		"id": "4",
+
+		"title": "MORE RED TICKETS",
+		"options": [
+			{
+				"title": "Pumas Unam",
+				"odds": -110,
+				"id": "1"
+			},
+			{
+				"title": "America",
+				"odds": 760,
+				"id": "2"
+			},
+			{
+				"title": "Equal",
+				"odds": 1,
+				"id": "3"
+			}
+		]
+	},
+	{
+		"gameID": "1",
+		"marketID": "2",
+		"id": "5",
+
+		"title": "BENCHES BROKEN",
+		"options": [
+			{
+				"title": "1",
+				"odds": -89,
+				"id": "1"
+			},
+			{
+				"title": "2",
+				"odds": 14,
+				"id": "2"
+			},
+			{
+				"title": "3",
+				"odds": 178,
+				"id": "3"
+			}
+		]
+	}
+]

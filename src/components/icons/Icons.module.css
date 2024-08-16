@@ -1,0 +1,9 @@
+.trash {
+	box-sizing: border-box;
+	padding: 0 11px;
+	text-align: end;
+}
+
+.trash-icon {
+	color: var(--grey);
+}

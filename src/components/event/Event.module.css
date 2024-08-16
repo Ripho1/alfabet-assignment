@@ -1,0 +1,25 @@
+.event-options {
+	background-color: var(--lightgrey);
+	padding: 10px;
+	gap: 10px;
+	
+	font-size: 10px;
+}
+
+.inline {
+	flex-direction: row;
+}
+
+.block {
+	flex-direction: column;
+}
+
+.event-option {
+	padding: 13px;
+	background-color: var(--grey);
+	width: -webkit-fill-available;
+}
+
+.selected {
+	background-color: var(--yellow);
+}

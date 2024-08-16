@@ -1,0 +1,32 @@
+[
+	{
+		"gameID": "1",
+		"id": "1",
+		"name": "Popular"
+	},
+	{
+		"gameID": "1",
+		"id": "2",
+		"name": "Teams"
+	},
+	{
+		"gameID": "1",
+		"id": "3",
+		"name": "Goles"
+	},
+	{
+		"gameID": "1",
+		"id": "4",
+		"name": "Players"
+	},
+	{
+		"gameID": "1",
+		"id": "5",
+		"name": "Stadium"
+	},
+	{
+		"gameID": "1",
+		"id": "6",
+		"name": "Allegations"
+	}
+]

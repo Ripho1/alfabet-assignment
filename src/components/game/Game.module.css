@@ -1,0 +1,30 @@
+.container {
+	overflow: auto;
+	height: calc(100vh - 70px);
+}
+
+.contained {
+	height: calc(100vh - 70px - 63px);
+}
+
+.game-data {
+	background-color: var(--grey);
+	font-size: 10px;
+	text-align: center;
+	height: 50px;
+}
+
+.bet-builder {
+	height: 70px;
+	background-color: var(--lightgrey);
+		
+	color: var(--red);
+	font-size: 20px;
+	font-style: italic;
+
+	padding: 0 24px;
+}
+
+.toggle {
+	color: var(--red);
+}

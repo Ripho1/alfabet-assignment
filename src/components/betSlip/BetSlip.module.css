@@ -1,0 +1,32 @@
+.slip {
+	height: 63px;
+	padding: 0 22px;
+
+	font-size: 16px;
+	color: var(--white);
+	background-color: var(--slip);
+}
+
+.left {
+	gap: 10px;
+}
+
+.selected {
+	background-color: var(--green);
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	
+	width: 30px;
+	border-radius: 50%;
+}
+
+.odds {
+	background-color: var(--green);
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+
+	padding: 0 13px;
+	border-radius: 15px;
+}

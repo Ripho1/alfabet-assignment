@@ -1,0 +1,12 @@
+.container {
+	box-sizing: border-box;
+	padding: 0 11px;
+	width: 150px;
+	margin: 7px 0;
+}
+
+.input {
+	outline: 0;
+	width: 65px;
+	border: 1px solid;
+}

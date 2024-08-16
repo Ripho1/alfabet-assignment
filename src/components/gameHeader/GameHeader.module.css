@@ -1,0 +1,14 @@
+.game-header {
+	height: 70px;
+	background-color: var(--darkgrey);
+	
+	padding: 0 24px;
+}
+
+.back {
+	color: var(--red);
+}
+
+.down {
+	color: var(--yellow);
+}

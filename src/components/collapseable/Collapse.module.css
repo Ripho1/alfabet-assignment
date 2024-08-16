@@ -1,0 +1,36 @@
+.header {
+	height: 45px;
+	
+	padding: 0 11px;
+	gap: 9px;
+	justify-content: initial;
+
+	font-size: 15px;
+	background-color: var(--red);
+	color: var(--white);
+}
+
+.reversed {
+	justify-content: flex-end;
+	flex-direction: row-reverse;
+}
+
+.opened {
+	color: var(--white);
+}
+
+.closed {
+	color: var(--yellow);
+	line-height: 45px;
+	position: relative;
+}
+
+.text-closed {
+	font-size: 12px;
+}
+
+.closed-icon {
+	right: -25px;
+	top: 17px;
+	position: absolute;
+}

@@ -1,0 +1,24 @@
+[
+	{
+		"id": "1",
+		"team1": "Pumas Unam",
+		"team2": "America",
+		"markets": [
+			{
+				"id": "1"
+			},
+			{
+				"id": "2"
+			},
+			{
+				"id": "3"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"team1": "Puma Unam",
+		"team2": "Brazil",
+		"markets": []
+	}
+]

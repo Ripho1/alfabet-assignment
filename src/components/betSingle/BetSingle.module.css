@@ -1,0 +1,13 @@
+.header {
+	font-size: 11px;
+	margin-left: 11px;
+}
+
+.footer {
+	padding-right: 11px;
+}
+
+.container {
+	border: 1px solid var(--black);
+	box-sizing: border-box;
+}
